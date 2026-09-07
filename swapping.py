@@ -7,4 +7,4 @@ b = temp
 
 print("After swapping:")
 print("a =", a)
-print("b =",b)
+print("b =", b)
